@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.5 'Open Sans', sans-serif;
-  color: $darkGray;
+  color: #000;
+  font-weight: 300;
 }
 
 .container {
