@@ -14,7 +14,9 @@
 - **языки:** HTML, CSS, JAVASCRIPT, PHP, SQL
 - **библиотеки/фреймфорки/CMS:** Bootstrap, JQuery, Angular, Vue.js, Codeigniter, Symfony, Wordpress
 - **знаком с** RabbitMQ, Postrgesql, Elasticsearch, Git, Linux, Node.js
+
 ## Опыт работы
+
 ### июль 2018 - март 2020
 #### ООО НАГ, web-разработчик
 - разработка брендовых сайтов компании https://nag.company, https://snr.systems
@@ -32,6 +34,7 @@
 - разработка сайтов: вёрстка, интеграция с CMS, поддержка
 
 ## Образование
+
 - Уральский Государственный Горный Университет, горный инженер
 - Уральская web школа, курс web-разработки
 
