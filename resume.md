@@ -4,11 +4,11 @@
 
 **Возраст:** 29 лет
 
-**Телефон:** +79126906518
+**Телефон:** [+79126906518](tel:+79126906518)
 
-**Email:** artur108lun@gmail.com
+**Email:** [artur108lun@gmail.com](mailto:artur108lun@gmail.com)
 
-**Telegram:** @arturLun
+**Telegram:** [@arturLun](https://t.me/arturLun)
 
 ## Владение технологиями
 - **языки:** HTML, CSS, JAVASCRIPT, PHP, SQL
