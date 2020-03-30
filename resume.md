@@ -13,7 +13,7 @@
 ## Владение технологиями
 - **языки:** HTML, CSS, JAVASCRIPT, PHP, SQL
 - **библиотеки/фреймфорки/CMS:** Bootstrap, JQuery, Angular, Vue.js, Codeigniter, Symfony, Wordpress
-- **знаком с** RabbitMQ, Mysql/Postrgesql, Elasticsearch, Git, Linux, Node.js
+- **знаком с** RabbitMQ, Mysql/Postrgesql, Elasticsearch, Git, Linux, Node.js, Python
 
 
 ## Опыт работы
