@@ -10,9 +10,12 @@
 
 **Telegram:** [@arturLun](https://t.me/arturLun)
 
+**Github:** [artlines](https://github.com/artlines)
+
+
 ## Владение технологиями
 - **языки:** HTML, CSS, JAVASCRIPT, PHP, SQL
-- **библиотеки/фреймфорки/CMS:** Bootstrap, JQuery, Angular, Vue.js, Codeigniter, Symfony, Wordpress
+- **библиотеки/фреймворки/CMS:** Bootstrap, JQuery, Angular, Vue.js, Codeigniter, Symfony, Wordpress
 - **знаком с** RabbitMQ, Mysql/Postrgesql, Elasticsearch, Git, Linux, Node.js, Python
 
 
